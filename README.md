@@ -15,7 +15,9 @@ C++: [Article] (http://www.cplusplus.com/doc/tutorial/files/)
 C++: [Another Article] (https://www.tutorialspoint.com/cplusplus/cpp_files_streams.htm)
 C++: [Video]
 
-C: 
+C: [Article] (https://www.programiz.com/c-programming/c-file-input-output)
+C: [Another Article] (https://www.cs.utah.edu/~germain/PPS/Topics/C_Language/file_IO.html)
+C: [Video] 
 
 
 
