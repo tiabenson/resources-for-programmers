@@ -1,15 +1,15 @@
 # resources-for-programmers
 
-Are you a beginner or upcoming programmer?  Need to refresh on basic programming techniques 
+Are you a beginner or upcoming programmer?  Need to refresh on basic programming techniques
 before your interview?  Then this page is for you!  This is a compilation of things that I struggled with
 during academia, and I hope these resources can help other programmers who may be struggling with
-these topics. 
+these topics.
 
-##File I/O
+##File Input/Output
 
 Java: [Article] (https://www.w3schools.com/java/java_files.asp)
 Java (specifically writing to a file): [Link] (https://stackoverflow.com/questions/2885173/how-do-i-create-a-file-and-write-to-it-in-java)
-Java: [Video] 
+Java: [Video]
 
 C++: [Article] (http://www.cplusplus.com/doc/tutorial/files/)
 C++: [Another Article] (https://www.tutorialspoint.com/cplusplus/cpp_files_streams.htm)
@@ -17,8 +17,9 @@ C++: [Video]
 
 C: [Article] (https://www.programiz.com/c-programming/c-file-input-output)
 C: [Another Article] (https://www.cs.utah.edu/~germain/PPS/Topics/C_Language/file_IO.html)
-C: [Video] 
+C: [Video]
 
+##Binary, Decimal, and Hexadecimal Conversions
 
-
-
+Binary to decimal and vice versa: [Article] (https://owlcation.com/stem/How-to-Convert-Decimal-to-Binary-and-Binary-to-Decimal)
+Binary to hexadecimal: [Article] (https://www.wikihow.com/Convert-Binary-to-Hexadecimal)
