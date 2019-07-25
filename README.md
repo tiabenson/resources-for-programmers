@@ -9,15 +9,15 @@ these topics.
 
 Java: [Article] (https://www.w3schools.com/java/java_files.asp)
 Java (specifically writing to a file): [Link] (https://stackoverflow.com/questions/2885173/how-do-i-create-a-file-and-write-to-it-in-java)
-Java: [Video]
+Java: [Video] (https://www.youtube.com/watch?v=_jhCvy8_lGE)
 
 C++: [Article] (http://www.cplusplus.com/doc/tutorial/files/)
 C++: [Another Article] (https://www.tutorialspoint.com/cplusplus/cpp_files_streams.htm)
-C++: [Video]
+C++: [Video] (https://www.youtube.com/watch?v=Iho2EdJgusQ)
 
 C: [Article] (https://www.programiz.com/c-programming/c-file-input-output)
 C: [Another Article] (https://www.cs.utah.edu/~germain/PPS/Topics/C_Language/file_IO.html)
-C: [Video]
+C: [Video] (https://www.youtube.com/watch?v=-LqUMHoBo6o)
 
 ##Binary, Decimal, and Hexadecimal Conversions
 
