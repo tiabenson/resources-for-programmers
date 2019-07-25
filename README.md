@@ -30,3 +30,9 @@ C: [Video](https://www.youtube.com/watch?v=-LqUMHoBo6o)
 Binary to decimal and vice versa: [Article](https://owlcation.com/stem/How-to-Convert-Decimal-to-Binary-and-Binary-to-Decimal)
 
 Binary to hexadecimal: [Article](https://www.wikihow.com/Convert-Binary-to-Hexadecimal)
+
+Hexadecimal to binary: [Video](https://www.youtube.com/watch?v=D_YC6DSPpQE)
+
+
+
+
