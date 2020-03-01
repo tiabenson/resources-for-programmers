@@ -33,9 +33,9 @@ Binary to hexadecimal: [Article](https://www.wikihow.com/Convert-Binary-to-Hexad
 
 Hexadecimal to binary: [Video](https://www.youtube.com/watch?v=D_YC6DSPpQE)
 
-Decimal to hexadecimal:
+Decimal to hexadecimal: [Article](https://www.permadi.com/tutorial/numDecToHex/)
 
-Hexadecimal to decimal: 
+Hexadecimal to decimal: [Video](https://www.youtube.com/watch?v=pg-HEGBpCQk)
 
 
 
